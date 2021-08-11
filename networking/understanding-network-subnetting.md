@@ -36,3 +36,5 @@ The difference between **3** & **4** is that the third part of the IPv4 can be 0
 
 1. https://www.ripe.net/about-us/press-centre/IPv4CIDRChart_2015.pdf
 2. https://www.aelius.com/njh/subnet_sheet.html
+3. http://jodies.de/ipcalc?host=10.10.10.1&mask1=21 - IP/Subnet Calculator
+4. https://www.calculator.net/ip-subnet-calculator.html - IP/Subnet Calculator
