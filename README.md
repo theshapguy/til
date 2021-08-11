@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-Small snippets that I have learned along the road.
+Small snippets that I have learned along the road. 
 
 ---
 
@@ -21,6 +21,7 @@ Small snippets that I have learned along the road.
 ### Networking
 
 - [Understanding Network Subnetting](networking/understanding-network-subnetting.md)
+- [SSH/Telnet into Nokia G-2425G-A](networking/ssh-telnet-into-nokia-g-2425-g-a.md)
 
 
 ### Utils
